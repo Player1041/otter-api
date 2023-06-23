@@ -1,7 +1,7 @@
 # Otter API
 
-__An API for serving otter photos.__
-https://otters.up.railway.app/
+__An API for serving otter photos.__  
+https://otters.up.railway.app/  
 This api was made originally [here](https://github.com/Player1041/old-animal-pics-api) but it had issues, so I rewrote it to work a bit better.
 
 ## Documentation
